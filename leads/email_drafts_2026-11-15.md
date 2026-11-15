@@ -119,3 +119,33 @@ It's a flat monthly fee, a fraction of a full-time hire (from $2,500/mo).
 Worth a 15-minute call? I'll bring three live opportunities that fit you.
 
 [Signature + physical address + opt-out line]
+
+---
+
+# Sector templates for the 47 SBA prospects (sba_contractor_prospects_2026-11-15.csv)
+
+Personalise {Company}, {FirstName} and {cert} from the CSV. Each email ends with signature + physical address + "Reply 'unsubscribe' to opt out."
+
+## A. Janitorial / facilities (8 firms)
+**Subject:** {Company}: more janitorial set-aside bids without more late nights
+Hi {FirstName}, I saw {Company} is {cert}-certified on SBA's search. Most janitorial firms I talk to lose bids for one reason: no time to track 561720 solicitations and write a compliant technical and pricing volume while also running crews. I work as a fractional bid manager: I find the right set-asides each week, make the bid/no-bid call with you, and write the proposal. You approve and submit. Flat monthly fee from $2,500, far less than a full-time hire. Open to a 15-minute call? I'll bring 3 live opportunities that fit you.
+
+## B. Training / HR / staffing (7 firms)
+**Subject:** {Company}: GSA eBuy and RFQ responses handled for you
+Hi {FirstName}, training and human-capital firms on GSA MAS compete with 1,000+ vendors, and eBuy RFQs often close in days. I monitor RFQs and state/local workforce RFPs, shortlist the winnable ones, and write fast, compliant responses so {Company} bids more without pulling consultants off billable work. Monthly retainer or per-bid. Could we talk for 15 minutes this week?
+
+## C. Healthcare staffing / services (10 firms)
+**Subject:** VA and state staffing RFQs for {Company}: faster, compliant responses
+Hi {FirstName}, VA and state health staffing solicitations come quickly and reward compliance and speed. I help {cert} healthcare firms track the right RFQs and RFPs, build reusable past-performance and staffing-plan content, and submit on time. Happy to send 3 current opportunities that match {Company}. Worth a quick call?
+
+## D. Construction (10 firms)
+**Subject:** {Company}: set-aside construction bids without the owner writing them
+Hi {FirstName}, as a {cert} contractor you have set-aside routes most GCs don't, but technical volumes, schedules and past-performance write-ups eat the owner's time. I act as your fractional bid and proposal manager: pipeline from SAM.gov and state portals, bid/no-bid calls, and full proposal or SF330 preparation. Monthly retainer from $2,500. 15 minutes next week?
+
+## E. Environmental / engineering (8 firms)
+**Subject:** {Company}: SF330 and RFP support for state, municipal and federal civilian work
+Hi {FirstName}, qualifications-based (SF330) and municipal RFP submittals are repetitive but high-stakes. I build {Company} a reusable content library (resumes, project sheets, past performance) and manage each submittal end to end, so your engineers stay billable. Open to a short call?
+
+## F. Translation / language services (4 firms)
+**Subject:** {Company}: language-services RFPs from courts, counties and agencies
+Hi {FirstName}, courts, counties, state agencies and federal civilian offices issue language-services RFPs constantly, but they're price-driven and paperwork-heavy. I track them, flag the winnable ones and write compliant responses for {Company}. Per bid or monthly. Can we talk this week?
